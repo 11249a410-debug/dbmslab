@@ -1,4 +1,3 @@
-
 -- DBMS LAB EXPERIMENT 10
 -- PL/SQL Programming: Hospital Patient Billing System
 -- Oracle Database 19c / 21c / 23ai
